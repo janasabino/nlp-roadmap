@@ -18,9 +18,19 @@
 
 ## Learning... :pencil::computer::books:
 
-## Books 
+## Books and tutorials
 
-##Frameworks and libraries
+- [ ] [Le Traitement Automatique des Langues](https://www.dunod.com/sciences-techniques/traitement-automatique-langues-comprendre-textes-grace-intelligence-artificielle)
+- [ ] [Introduction to Natural Language Processing](https://mitpress.mit.edu/books/introduction-natural-language-processing)
+- [ ] [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- [ ] [Natural Language Annotation for Machine Learning](https://www.oreilly.com/library/view/natural-language-annotation/9781449332693/)
+- [ ] [Applied Text Analysis with Python](https://github.com/foxbook)
+- [ ] [Natural Language Processing in Action: Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action)
+- [ ] [Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning](https://github.com/joosthub/PyTorchNLPBook)
+- [ ] [Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems](https://github.com/practical-nlp/practical-nlp)
+
+
+## Frameworks and libraries
 
 - [ ] [NLTK](https://www.nltk.org/)
 - [ ] [spaCy](https://spacy.io/)
