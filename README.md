@@ -16,4 +16,4 @@
   <img src="/img/text-mining.png">
 </p>
 
-##Learning... :pencil: :computer: :books:
+## Learning... :pencil::computer::books:
