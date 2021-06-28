@@ -17,3 +17,7 @@
 </p>
 
 ## Learning... :pencil::computer::books:
+
+## Books and tutorials
+
+- [X] [NLTK](https://https://www.nltk.org/)
