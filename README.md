@@ -39,6 +39,10 @@
 - [ ] [PyNLP](https://pynlpl.readthedocs.io/en/latest/)
 - [ ] [Gensim](https://radimrehurek.com/gensim/)
 
+## Reference
+
+Thanks to [@graykode](https://github.com/graykode/nlp-roadmap) and [@amitness](https://github.com/amitness/learning) for the material and inspiration.
+
 
 
 
