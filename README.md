@@ -20,4 +20,4 @@
 
 ## Books and tutorials
 
-- [X] [NLTK](https://https://www.nltk.org/)
+- [X] [NLTK](https://www.nltk.org/)
