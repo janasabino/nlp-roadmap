@@ -18,6 +18,18 @@
 
 ## Learning... :pencil::computer::books:
 
-## Books and tutorials
+## Books 
 
-- [X] [NLTK](https://www.nltk.org/)
+##Frameworks and libraries
+
+- [ ] [NLTK](https://www.nltk.org/)
+- [ ] [spaCy](https://spacy.io/)
+- [ ] [TextBlob](https://textblob.readthedocs.io/en/dev/)
+- [ ] [Gensim](https://radimrehurek.com/gensim/)
+- [ ] [PyNLP](https://pynlpl.readthedocs.io/en/latest/)
+- [ ] [Gensim](https://radimrehurek.com/gensim/)
+
+
+
+
+
